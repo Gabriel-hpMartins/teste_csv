@@ -1,0 +1,101 @@
+ID,Nome,CPF,Idade,Gênero,Endereço,Cidade,Estado,Faixa de Renda,Email
+1,Marcelo Santos,185.881.270-83,40,Feminino,"Rua E, 240",Petrópolis,RJ,1.001-2.000,user1@email.com
+2,Aline Santos,756.867.154-67,50,Feminino,"Rua A, 405",Salvador,BA,3.001-5.000,user2@email.com
+3,Isabela Silva,504.681.122-67,32,Masculino,"Rua C, 274",Caxias do Sul,RS,7.001-10.000,user3@email.com
+4,Aline Ferreira,894.478.186-97,31,Masculino,"Rua B, 441",Santos,SP,2.001-3.000,user4@email.com
+5,Juliana Costa,842.758.362-44,48,Masculino,"Rua E, 251",Juazeiro,BA,1.001-2.000,user5@email.com
+6,Marcelo Mendes,875.923.285-58,61,Feminino,"Rua C, 121",São Paulo,SP,2.001-3.000,user6@email.com
+7,Eduardo Rocha,611.384.975-57,69,Masculino,"Rua C, 179",Caxias do Sul,RS,5.001-7.000,user7@email.com
+8,Renata Santos,445.677.559-14,70,Feminino,"Rua D, 236",Juazeiro,BA,7.001-10.000,user8@email.com
+9,Bruno Lima,698.973.731-59,35,Masculino,"Rua E, 154",Uberlândia,MG,2.001-3.000,user9@email.com
+10,Marcelo Silva,977.560.362-57,70,Feminino,"Rua D, 15",Vitória da Conquista,BA,1.001-2.000,user10@email.com
+11,Aline Santos,481.694.697-35,69,Masculino,"Rua E, 104",Volta Redonda,RJ,2.001-3.000,user11@email.com
+12,Lucas Lima,824.684.161-22,45,Feminino,"Rua E, 354",Itabuna,BA,7.001-10.000,user12@email.com
+13,Isabela Ferreira,690.348.576-39,44,Masculino,"Rua D, 245",Novo Hamburgo,RS,5.001-7.000,user13@email.com
+14,Lucas Ferreira,155.513.332-23,59,Masculino,"Rua A, 60",Juazeiro,BA,5.001-7.000,user14@email.com
+15,Gustavo Alves,512.912.302-65,67,Feminino,"Rua A, 26",Belo Horizonte,MG,1.001-2.000,user15@email.com
+16,Camila Alves,652.579.808-30,30,Feminino,"Rua E, 296",Campinas,SP,7.001-10.000,user16@email.com
+17,Marcelo Costa,479.787.206-40,18,Feminino,"Rua C, 20",Salvador,BA,2.001-3.000,user17@email.com
+18,Fernando Mendes,790.238.859-25,49,Masculino,"Rua E, 58",Volta Redonda,RJ,7.001-10.000,user18@email.com
+19,Camila Santos,411.958.656-71,69,Masculino,"Rua A, 87",Contagem,MG,7.001-10.000,user19@email.com
+20,Gustavo Mendes,542.604.563-71,60,Feminino,"Rua C, 476",Volta Redonda,RJ,1.001-2.000,user20@email.com
+21,Ricardo Silva,977.782.244-18,46,Feminino,"Rua A, 397",Rio de Janeiro,RJ,1.001-2.000,user21@email.com
+22,Rafael Santos,835.168.852-43,61,Feminino,"Rua C, 114",Porto Alegre,RS,7.001-10.000,user22@email.com
+23,Aline Martins,833.176.572-70,45,Masculino,"Rua C, 93",Rio de Janeiro,RJ,2.001-3.000,user23@email.com
+24,Eduardo Costa,692.469.442-42,44,Feminino,"Rua E, 7",Rio de Janeiro,RJ,2.001-3.000,user24@email.com
+25,Carlos Costa,617.927.573-54,19,Feminino,"Rua E, 114",Petrópolis,RJ,5.001-7.000,user25@email.com
+26,Mariana Costa,916.984.743-77,33,Masculino,"Rua B, 110",Campinas,SP,2.001-3.000,user26@email.com
+27,Eduardo Martins,767.901.392-24,49,Masculino,"Rua C, 95",São Paulo,SP,5.001-7.000,user27@email.com
+28,Marcelo Santos,617.228.375-33,58,Feminino,"Rua B, 251",Uberlândia,MG,2.001-3.000,user28@email.com
+29,Fernando Costa,153.977.877-47,66,Masculino,"Rua A, 66",Santa Maria,RS,1.001-2.000,user29@email.com
+30,Thiago Alves,398.363.123-93,18,Feminino,"Rua B, 310",Franco da Rocha,SP,5.001-7.000,user30@email.com
+31,Carlos Lima,219.595.755-55,28,Masculino,"Rua B, 306",Juiz de Fora,MG,1.001-2.000,user31@email.com
+32,Larissa Lima,676.703.984-43,64,Feminino,"Rua C, 290",Duque de Caxias,RJ,5.001-7.000,user32@email.com
+33,Fernando Alves,474.268.853-40,51,Feminino,"Rua C, 392",Novo Hamburgo,RS,7.001-10.000,user33@email.com
+34,Aline Alves,199.289.672-91,19,Feminino,"Rua E, 363",Duque de Caxias,RJ,3.001-5.000,user34@email.com
+35,Thiago Santos,395.693.574-44,38,Feminino,"Rua D, 428",Franco da Rocha,SP,2.001-3.000,user35@email.com
+36,Camila Ferreira,523.799.707-16,37,Masculino,"Rua E, 379",Franco da Rocha,SP,1.001-2.000,user36@email.com
+37,Bruno Ferreira,196.845.457-15,70,Feminino,"Rua B, 445",Montes Claros,MG,7.001-10.000,user37@email.com
+38,Camila Lima,585.155.736-49,35,Masculino,"Rua B, 399",Feira de Santana,BA,7.001-10.000,user38@email.com
+39,Eduardo Costa,790.789.309-77,43,Masculino,"Rua C, 68",Feira de Santana,BA,5.001-7.000,user39@email.com
+40,Rafael Mendes,115.231.897-39,37,Masculino,"Rua C, 51",Juiz de Fora,MG,3.001-5.000,user40@email.com
+41,Aline Souza,551.524.576-42,66,Masculino,"Rua B, 112",Caxias do Sul,RS,5.001-7.000,user41@email.com
+42,Thiago Rocha,194.776.625-39,30,Masculino,"Rua E, 270",Juazeiro,BA,5.001-7.000,user42@email.com
+43,Gustavo Rocha,791.382.892-50,43,Feminino,"Rua D, 254",Belo Horizonte,MG,1.001-2.000,user43@email.com
+44,Gustavo Martins,278.136.325-33,34,Feminino,"Rua D, 259",Vitória da Conquista,BA,3.001-5.000,user44@email.com
+45,Bruno Alves,222.443.586-81,43,Feminino,"Rua E, 52",Itabuna,BA,1.001-2.000,user45@email.com
+46,Juliana Santos,388.600.764-70,65,Feminino,"Rua A, 337",Pelotas,RS,7.001-10.000,user46@email.com
+47,Thiago Santos,511.237.303-91,46,Feminino,"Rua A, 146",Rio de Janeiro,RJ,1.001-2.000,user47@email.com
+48,Marcelo Santos,859.837.781-24,58,Masculino,"Rua E, 465",Uberlândia,MG,2.001-3.000,user48@email.com
+49,Patrícia Alves,405.806.438-89,44,Masculino,"Rua B, 320",Montes Claros,MG,2.001-3.000,user49@email.com
+50,Patrícia Santos,824.800.838-61,46,Masculino,"Rua B, 162",Salvador,BA,2.001-3.000,user50@email.com
+51,Thiago Ferreira,691.744.676-83,36,Masculino,"Rua E, 406",Juazeiro,BA,1.001-2.000,user51@email.com
+52,Renata Alves,324.206.287-50,54,Feminino,"Rua B, 223",Juazeiro,BA,5.001-7.000,user52@email.com
+53,Lucas Rocha,458.887.834-72,30,Masculino,"Rua E, 56",Belo Horizonte,MG,7.001-10.000,user53@email.com
+54,Carlos Santos,893.736.426-76,38,Feminino,"Rua B, 225",Pelotas,RS,5.001-7.000,user54@email.com
+55,Marcelo Rocha,906.978.489-32,57,Masculino,"Rua A, 256",Campinas,SP,1.001-2.000,user55@email.com
+56,Ricardo Martins,380.288.973-14,30,Feminino,"Rua E, 210",Juiz de Fora,MG,1.001-2.000,user56@email.com
+57,Juliana Alves,664.464.398-29,67,Masculino,"Rua E, 121",Novo Hamburgo,RS,5.001-7.000,user57@email.com
+58,Gustavo Lima,591.696.504-99,67,Masculino,"Rua C, 321",Juiz de Fora,MG,3.001-5.000,user58@email.com
+59,Ana Ferreira,515.252.508-16,24,Feminino,"Rua E, 389",Feira de Santana,BA,3.001-5.000,user59@email.com
+60,Ricardo Santos,365.104.779-42,34,Masculino,"Rua B, 94",Uberlândia,MG,5.001-7.000,user60@email.com
+61,Ricardo Alves,974.428.967-18,29,Feminino,"Rua B, 264",São Paulo,SP,2.001-3.000,user61@email.com
+62,Bruno Rocha,950.635.403-38,32,Masculino,"Rua C, 235",Salvador,BA,5.001-7.000,user62@email.com
+63,Carlos Costa,926.291.199-24,68,Masculino,"Rua C, 50",Itabuna,BA,2.001-3.000,user63@email.com
+64,Patrícia Costa,659.404.952-53,64,Masculino,"Rua D, 431",Volta Redonda,RJ,3.001-5.000,user64@email.com
+65,Fernanda Ferreira,949.135.619-62,27,Feminino,"Rua A, 380",Salvador,BA,2.001-3.000,user65@email.com
+66,Aline Alves,717.258.731-42,66,Feminino,"Rua E, 352",Belo Horizonte,MG,3.001-5.000,user66@email.com
+67,Lucas Rocha,385.243.312-92,25,Masculino,"Rua D, 221",Santa Maria,RS,1.001-2.000,user67@email.com
+68,Ana Martins,155.496.932-21,24,Feminino,"Rua A, 232",Contagem,MG,3.001-5.000,user68@email.com
+69,Fernando Martins,449.665.900-12,57,Masculino,"Rua B, 394",Juazeiro,BA,1.001-2.000,user69@email.com
+70,Ricardo Martins,176.532.135-85,61,Masculino,"Rua D, 302",Uberlândia,MG,3.001-5.000,user70@email.com
+71,Patrícia Silva,154.901.178-37,34,Feminino,"Rua C, 48",Duque de Caxias,RJ,5.001-7.000,user71@email.com
+72,Patrícia Lima,420.721.128-75,41,Masculino,"Rua E, 410",Juiz de Fora,MG,5.001-7.000,user72@email.com
+73,Lucas Lima,864.761.530-95,23,Feminino,"Rua A, 148",Belo Horizonte,MG,7.001-10.000,user73@email.com
+74,Ana Costa,983.501.633-80,55,Masculino,"Rua A, 48",Salvador,BA,7.001-10.000,user74@email.com
+75,Aline Ferreira,406.546.842-81,45,Masculino,"Rua C, 67",Sorocaba,SP,5.001-7.000,user75@email.com
+76,Ricardo Mendes,543.223.601-71,67,Masculino,"Rua A, 331",Santos,SP,1.001-2.000,user76@email.com
+77,Eduardo Rocha,265.720.375-87,49,Masculino,"Rua C, 236",Franco da Rocha,SP,5.001-7.000,user77@email.com
+78,Marcelo Santos,140.422.353-73,33,Feminino,"Rua A, 355",Salvador,BA,1.001-2.000,user78@email.com
+79,Rafael Costa,508.443.676-24,18,Feminino,"Rua C, 406",Itabuna,BA,2.001-3.000,user79@email.com
+80,Carlos Lima,578.661.768-69,50,Masculino,"Rua C, 40",Salvador,BA,3.001-5.000,user80@email.com
+81,Eduardo Lima,699.569.576-23,56,Masculino,"Rua D, 74",Niterói,RJ,2.001-3.000,user81@email.com
+82,Thiago Mendes,257.263.367-23,44,Masculino,"Rua C, 60",Uberlândia,MG,1.001-2.000,user82@email.com
+83,Fernando Rocha,941.811.172-99,70,Feminino,"Rua E, 473",Belo Horizonte,MG,7.001-10.000,user83@email.com
+84,Ana Santos,957.113.311-75,41,Feminino,"Rua E, 403",Salvador,BA,2.001-3.000,user84@email.com
+85,Rafael Martins,439.458.122-40,58,Masculino,"Rua C, 295",Pelotas,RS,1.001-2.000,user85@email.com
+86,Eduardo Souza,511.879.849-40,64,Feminino,"Rua C, 215",Niterói,RJ,3.001-5.000,user86@email.com
+87,Thiago Mendes,673.554.115-87,25,Masculino,"Rua D, 316",Porto Alegre,RS,3.001-5.000,user87@email.com
+88,Mariana Lima,321.119.801-33,48,Feminino,"Rua D, 272",Porto Alegre,RS,2.001-3.000,user88@email.com
+89,Renata Mendes,308.932.240-84,31,Feminino,"Rua C, 379",Caxias do Sul,RS,7.001-10.000,user89@email.com
+90,Eduardo Alves,517.275.202-19,27,Masculino,"Rua B, 104",Rio de Janeiro,RJ,5.001-7.000,user90@email.com
+91,Aline Costa,856.538.415-57,27,Feminino,"Rua D, 16",Niterói,RJ,1.001-2.000,user91@email.com
+92,Carlos Costa,823.974.829-76,41,Masculino,"Rua C, 319",Uberlândia,MG,5.001-7.000,user92@email.com
+93,Larissa Silva,393.496.861-61,23,Masculino,"Rua C, 113",Porto Alegre,RS,1.001-2.000,user93@email.com
+94,Patrícia Rocha,435.674.796-45,67,Feminino,"Rua B, 131",Itabuna,BA,1.001-2.000,user94@email.com
+95,Ana Martins,779.204.241-56,29,Masculino,"Rua D, 389",Belo Horizonte,MG,5.001-7.000,user95@email.com
+96,Fernando Ferreira,921.731.269-49,51,Masculino,"Rua A, 250",Volta Redonda,RJ,3.001-5.000,user96@email.com
+97,Fernando Costa,873.548.198-27,38,Masculino,"Rua D, 356",Petrópolis,RJ,2.001-3.000,user97@email.com
+98,Patrícia Rocha,859.946.519-88,31,Feminino,"Rua A, 441",Vitória da Conquista,BA,5.001-7.000,user98@email.com
+99,Ana Lima,311.337.322-35,47,Masculino,"Rua A, 65",Santa Maria,RS,5.001-7.000,user99@email.com
+100,Fernando Martins,455.328.266-18,59,Feminino,"Rua D, 434",Feira de Santana,BA,2.001-3.000,user100@email.com
